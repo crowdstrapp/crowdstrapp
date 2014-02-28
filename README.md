@@ -43,11 +43,11 @@ Let’s Crowdstrapp the platform.
 We truly believe this business model can change lives. Maybe it will change yours. Come help build the platform and gain an equity stake in Crowdstrapp. We want to build Crowdstrapp using the exact same crowdstrapping process as the companies we will host. This will give us clear insight into the needs and issues presented by this new business model. The platform will consist of a way to distribute and track equity, and eventually the management tools to help the company make decisions.
 
 Typically, working for equity creates a lot of risk. We have identified five major reasons why. Please feel free to help us add more.
-1. It’s risky for the service provider - the company may fail - *__Crowdstrapping spreads this risk through diversification__*
-2. Time consuming - working for equity takes as much (or more) time as a full paying client - *__by spreading small chunks of equity to more people, crowdstrapping distributes the workload among more people who are performing tasks.__* 
-3. Responsibility - when the full responsibility for results is heaped upon one person - it can seem a very heavy burden for something that might not pay off. *__With crowdstrapping, no project depends upon just a few people. With the power of the crowd, decisions can be made by voting, and work contributions will be shared among many.__*
-4. It’s risky for the company - what if the service provider doesn’t work out? *__Crowdstrapping spreads this risk through diversification.__*
-5. Opportunity costs for the company and the service provider - time and energy is diverted away from other people and projects that may be much more profitable. *__Crowdstrapping spreads this risk through diversification.__*
+1.It’s risky for the service provider - the company may fail - *__Crowdstrapping spreads this risk through diversification__*
+2.Time consuming - working for equity takes as much (or more) time as a full paying client - *__by spreading small chunks of equity to more people, crowdstrapping distributes the workload among more people who are performing tasks.__* 
+3.Responsibility - when the full responsibility for results is heaped upon one person - it can seem a very heavy burden for something that might not pay off. *__With crowdstrapping, no project depends upon just a few people. With the power of the crowd, decisions can be made by voting, and work contributions will be shared among many.__*
+4.It’s risky for the company - what if the service provider doesn’t work out? *__Crowdstrapping spreads this risk through diversification.__*
+5.Opportunity costs for the company and the service provider - time and energy is diverted away from other people and projects that may be much more profitable. *__Crowdstrapping spreads this risk through diversification.__*
 
 Are you in?
 --------

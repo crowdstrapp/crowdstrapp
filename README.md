@@ -12,7 +12,7 @@ Starting a company also has a significant “luck factor.” Of course, a startu
 This platform is an effort to make wealth creation possible for many more people than it is today.
 Crowdstrapping Definition
 --------
-Crowdstrapping is the process of <a href="http://www.investopedia.com/terms/b/bootstrap.asp" target="_blank">bootstrapping a business</a> by distributing ownership among a crowd of people who all contribute to the success of the company. These initial owners provide the expertise that can not be afforded by a bootstrapping startup. Through the power of crowd ownership, the business has much greater access to talent and ideas. 
+Crowdstrapping is the process of <a href="http://www.investopedia.com/terms/b/bootstrap.asp" target="_blank">bootstrapping a business</a> by distributing ownership among a crowd of people who all contribute to the success of the company. These initial owners provide the expertise that cannot be afforded by a bootstrapping startup. Through the power of crowd ownership, the business has much greater access to talent and ideas. 
  
 There are many crowd sites. Crowdfunding, crowd work, crowd design, crowd problem solving, just about crowd everything - except startups. 
 
